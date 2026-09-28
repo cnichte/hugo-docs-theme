@@ -1,12 +1,12 @@
 {
   "name": "@glimpse-of-life/hugo-docs-theme",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reusable Hugo documentation theme based on Doks Core",
   "author": "Carsten Nichte",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cnichte/hugo-docs-theme.git"
+    "url": "git+https://github.com/cnichte/hugo-docs-theme.git"
   },
   "scripts": {
     "format": "prettier **/** -w -c"
